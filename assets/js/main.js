@@ -1,4 +1,4 @@
-$(document).ready(function(){
+/*$(document).ready(function(){
   let $imageContainer = $('#image-container');
   let $imageLinks = $('.image-link');
 
@@ -21,6 +21,8 @@ $(document).ready(function(){
       top: e.clientY + 'px'
     })
     $imageContainer.addClass('visible');
+
+    console.log($video)
   });
 
   $imageLinks.on('mousemove', (e) => {
@@ -33,4 +35,4 @@ $(document).ready(function(){
   $imageLinks.on('mouseleave', () => {
     $imageContainer.removeClass('visible');
   })
-})
+})*/
