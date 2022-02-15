@@ -14,9 +14,6 @@ const config = {
 		adapter: adapter({
 			pages: 'docs'
 		}),
-		paths: {
-			base: dev ? '' : '/charliesmart.github.io',
-		},
 		appDir: 'internal',
 	}
 };
