@@ -14,7 +14,7 @@
 
 <style type="scss">
     .link-span {
-        color: blue;
+        color: #006aff;
         font-style: italic;
         text-decoration: none;
         position: relative;
@@ -25,10 +25,10 @@
     @media (min-width: 701px) {
         .link-span:hover {
             font-family: acumin-pro-extra-condensed, sans-serif;
-            font-size: 41px;
+            font-size: 38px;
             font-weight: 900;
             line-height: 44px;
-            letter-spacing: 0.5px;
+            letter-spacing: 0.8px;
             text-decoration: underline;
         }
     }
