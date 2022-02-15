@@ -13,7 +13,7 @@
 </script>
 
 {#if currentHover}
-    <img src="static/{currentHover}" class="display-image"/>
+    <img src="{currentHover}" class="display-image"/>
 {/if}
 
 <div class="text-wrap" class:hovering="{currentHover !== null}">
