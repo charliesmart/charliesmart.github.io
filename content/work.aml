@@ -1,0 +1,75 @@
+title: Work
+
+[.body]
+    title: Maui Fire
+    org: The New York Times
+    year:2023
+    banner:maui.mp4
+    url:https://www.nytimes.com/interactive/2023/11/01/us/hawaii-maui-fire-timeline.html
+    abstract:A 3D reconstruction of the Maui fires, showing the chain of failures that left more than 100 people dead.
+
+    title: Can You Gerrymander Your Party to Power?
+    org: The New York Times
+    year: 2022
+    banner:gerrymander.mp4
+    url:https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html
+    abstract:A game to teach readers about the mechanics of gerrymandering.
+
+    title: Election Results
+    org: The New York Times
+    year: Every year 🙃
+    banner: election_results.mp4
+    url:https://www.nytimes.com/interactive/2022/11/08/us/elections/results-needle-forecast.html
+    abstract:I degin and build pages and components for our live election results and forecasts. I have worked on every major election since the 2020 primaries.
+
+    title: New Jersey’s Rising Coastal Risk
+    org: The Pudding / Climate Impact Lab
+    year: 2019
+    banner: nj_risk.mp4
+    url:https://njcoastalrisk.com/
+    abstract:Animated maps and charts showing the projected impact of sea level rise on New Jersey’s coast.
+
+    title: Trump's Seeds of Doubt
+    org: The New York Times
+    year: 2024
+    banner: trump_statements.mp4
+    url:https://www.nytimes.com/interactive/2024/05/24/us/politics/trump-election-results-doubt.html
+    abstract:Showing Donald Trump's pattern of sowing doubt about the fairness of the election.
+
+    title: An Extremely Detailed Map of the 2020 Election
+    org: The New York Times
+    year: 2021
+    banner: precincts.mp4
+    url: https://www.nytimes.com/interactive/2021/upshot/2020-election-map.html
+    abstract: A map of precinct-level results from the 2020 election.
+
+    title: Political Fundraising Scams
+    org: The New York Times
+    year: 2023
+    banner:scampacs.mp4
+    url:https://www.nytimes.com/interactive/2023/05/14/us/politics/scam-robocalls-donations-policing-veterans.html
+    abstract:Visualizing how a group of Republican operatives raised $89 million for campaigns and siphoned 99% of it away.
+
+    title: YouTube Rewind
+    org: The Pudding / YouTube
+    year: 2019
+    banner: youtube.mp4
+    url:https://rewind.youtube/
+    abstract: Animated charts showing popular YouTube videos in 2019 for YouTube rewind.
+
+    title: A Close Look at the Chaotic House Republican Majority
+    org: The New York Times
+    year: 2023
+    banner:house_republicans.mp4
+    url:https://www.nytimes.com/interactive/2023/02/10/us/politics/house-republicans-lawmakers.html
+    abstract:A visual analysis of the factions within the House Republican caucus.
+
+     title: Post-Eclipse Movement Analysis
+    org: The New York Times
+    year: 2024
+    banner:eclipse.mp4
+    url:https://www.nytimes.com/interactive/2024/04/10/us/eclipse-population-traffic.html?ugrp=c&unlocked_article_code=1.jU0.u0_V.FGhZyp__9GZg&smid=url-share
+    abstract:I scraped traffic data during the 2024 solar eclipse to see which places had the biggest influx of visitors.
+
+  
+[]

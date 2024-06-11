@@ -1,0 +1,88 @@
+title: Charlie Smart
+readMore:I have also worked on projects about [Covid hospitalizations](https://www.nytimes.com/interactive/2021/09/14/us/covid-hospital-icu-south.html), [demographic change](https://www.nytimes.com/interactive/2021/08/12/us/2020-census-race-ethnicity.html), [campaign finance](https://www.nytimes.com/interactive/2021/05/22/nyregion/nyc-mayor-donors-map.html), [solar eclipse traffic](https://www.nytimes.com/interactive/2024/04/10/us/eclipse-population-traffic.html), [Trump’s criminal cases](https://www.nytimes.com/interactive/2022/09/03/us/fbi-mar-a-lago-documents.html), and many other things. For a more up-to-date list of my work, you can view my [New York Times bio](https://www.nytimes.com/by/charlie-smart).
+
+[+.body]
+    I’m a developer and designer interested in making sense of complicated data, concepts, and stories. 
+    
+    I currently work as a graphics editor at the New York Times, where I make interactive graphics, maps, games, and other internet gizmos. Before that, I worked at small studios specializing in information design.
+
+    My work has received awards from the Society for News Design. Coronavirus tracking tools I worked on were part of a package that won the 2021 Pulitzer Prize for public service journalism.
+
+    I like to spend time outdoors, rock climb, and play the guitar.
+
+    text:[email](mailto:charlie.r.smart@gmail.com) / [twitter](https://x.com/charlie_smart_) / [linkedin](https://www.linkedin.com/in/charliesmart/)
+[]
+
+[.work]
+    title: Inside the Deadly Maui Inferno
+    org: The New York Times
+    year:2023
+    banner:maui.mp4
+    url:https://www.nytimes.com/interactive/2023/11/01/us/hawaii-maui-fire-timeline.html
+    abstract:A reconstruction of the Maui fires, showing the chain of failures that left more than 100 people dead. We used Cesium to render Google 3D tiles and a whole bunch of custom code to render videos and data layers on top of the 3D map.
+
+    title: Can You Gerrymander Your Party to Power?
+    org: The New York Times
+    year: 2022
+    banner:gerrymander.mp4
+    url:https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html
+    abstract:This game aims to teach readers about the mechanics of partisan gerrymandering. I designed the game UI and built it using Svelte. After playing, readers could compare their scores and maps to other readers. 
+
+    title: New York Times Live Election Results
+    org: The New York Times
+    year: Every year 🙃
+    banner: election_results.mp4
+    url:https://www.nytimes.com/interactive/2022/11/08/us/elections/results-needle-forecast.html
+    abstract:I play a lead role in designing and building pages for The New York Times’ live election results and live forecast (a.k.a. “the needle”). I have worked on every major election since the 2020 primaries. The app is written in Svelte and Typescript.
+
+    title: New York Times Coronavirus Tracking
+    org: The New York Times
+    year: 2020
+    banner: covid_tracker.mp4
+    url:https://www.nytimes.com/interactive/2021/us/covid-cases.html
+    abstract:I spent most of 2020 working on a small team to design and build the Times’ Covid-19 tracking dashboards. We published trackers for every state and county, along with tools that let readers customize a dashboard to track Covid in places important to them. These pages were viewed more than a billion times and were part of a package that won the Pulitzer Prize for public service. 
+
+   
+
+    title: An Extremely Detailed Map of the 2020 Election
+    org: The New York Times
+    year: 2021
+    banner: precincts.mp4
+    url: https://www.nytimes.com/interactive/2021/upshot/2020-election-map.html
+    abstract: I designed and built a map of precint-level results of the 2020 presidential election. Readers can search for their address to see how their precinct voted and how the vote shifted from 2016.
+
+    title: How Kyiv Has Withstood Russia’s Attacks
+    org: The New York Times
+    year: 2022
+    banner: kyiv.mp4
+    url: https://www.nytimes.com/interactive/2022/04/02/world/europe/kyiv-invasion-disaster.html
+    abstract: This story uses immersive 3D maps to show how Ukraine held off Russia’s advances on its capital city.
+
+    title: Political Fundraising Scams
+    org: The New York Times
+    year: 2023
+    banner:scampacs.mp4
+    url:https://www.nytimes.com/interactive/2023/05/14/us/politics/scam-robocalls-donations-policing-veterans.html
+    abstract:Visualizing how a group of Republican operatives created fake non-profits, which raised $89 million and siphoned 99% of it into the pockets of shady vendors and the non-profit founders themselves.
+
+     title: A Close Look at the Chaotic House Republican Majority
+    org: The New York Times
+    year: 2023
+    banner:house_republicans.mp4
+    url:https://www.nytimes.com/interactive/2023/02/10/us/politics/house-republicans-lawmakers.html
+    abstract:A visual analysis of the factions within the House Republican caucus.
+
+    title: New Jersey’s Rising Coastal Risk
+    org: The Pudding / Climate Impact Lab
+    year: 2019
+    banner: nj_risk.mp4
+    url:https://njcoastalrisk.com/
+    abstract:I used WegGL to created animated maps and charts showing the projected impact of sea level rise on New Jersey’s coast.
+
+    title: YouTube Rewind
+    org: The Pudding / YouTube
+    year: 2019
+    banner: youtube.mp4
+    url:https://rewind.youtube/
+    abstract: Animated charts showing popular YouTube videos in 2019 for YouTube rewind.
+[]
