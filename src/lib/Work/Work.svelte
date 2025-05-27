@@ -42,20 +42,25 @@
   </div>
 -->
 
-<div class="work-section" on:mouseenter={mouseEnter} on:mouseleave={mouseLeave}>
-  <a target="_blank" href={url}>
+<a class="work-link" target="_blank" href={url}>
+  <div
+    class="work-section"
+    on:mouseenter={mouseEnter}
+    on:mouseleave={mouseLeave}
+  >
     <Subhed>
       <span class="source">{org}</span>{title}</Subhed
     >
-  </a>
-  <Paragraph text={abstract} />
 
-  <div class="image">
-    {#if banner.includes(".mp4")}
-      <video loop bind:this={video} muted="true" src="/images/{banner}" />
-    {/if}
+    <Paragraph text={abstract} />
+
+    <div class="image">
+      {#if banner.includes(".mp4")}
+        <video loop bind:this={video} muted="true" src="/images/{banner}" />
+      {/if}
+    </div>
   </div>
-</div>
+</a>
 
 <style>
   .image {
@@ -90,7 +95,7 @@
     position: relative;
   }
 
-  .work-section:last-child {
+  a.work-link:last-child .work-section {
     border-bottom: 1px solid black;
   }
 
