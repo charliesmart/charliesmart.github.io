@@ -10,4 +10,10 @@
     margin-bottom: 0;
     color: #e56346;
   }
+
+  @media (max-width: 650px) {
+    .hed {
+      margin-bottom: 10px;
+    }
+  }
 </style>

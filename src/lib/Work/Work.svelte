@@ -49,8 +49,9 @@
     on:mouseleave={mouseLeave}
   >
     <Subhed>
-      <span class="source">{org}</span>{title}</Subhed
-    >
+      {title}
+      <span class="source desktop">{org}</span>
+    </Subhed>
 
     <Paragraph text={abstract} />
 
@@ -126,9 +127,9 @@
 
   @media (max-width: 650px) {
     .source {
-      display: block;
+      display: none;
       float: none;
-      margin-bottom: 10px;
+      margin-bottom: 15px;
     }
   }
 </style>
