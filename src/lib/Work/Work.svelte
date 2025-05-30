@@ -53,6 +53,12 @@
       <span class="source desktop">{org}</span>
     </Subhed>
 
+    <div class="image-mobile">
+      {#if banner.includes(".mp4")}
+        <video autoplay loop muted="true" src="/images/{banner}" />
+      {/if}
+    </div>
+
     <Paragraph text={abstract} />
 
     <div class="image">
@@ -75,6 +81,12 @@
     transition: all 0.3s ease;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
     padding: 0;
+  }
+
+  .image-mobile {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    display: none;
   }
 
   a {
@@ -130,6 +142,14 @@
       display: none;
       float: none;
       margin-bottom: 15px;
+    }
+
+    .image-mobile {
+      display: block;
+    }
+
+    .image {
+      display: none !important;
     }
   }
 </style>
