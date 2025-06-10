@@ -7,8 +7,8 @@
     line-height: 1.1;
     font-weight: 500;
     margin-top: 0;
-    margin-bottom: 0;
-    color: #e56346;
+    margin-bottom: 5px;
+    color: #ff0044;
   }
 
   @media (max-width: 650px) {

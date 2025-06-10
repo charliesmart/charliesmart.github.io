@@ -2,13 +2,11 @@ title: Charlie Smart
 readMore:I have also worked on projects about [Covid hospitalizations](https://www.nytimes.com/interactive/2021/09/14/us/covid-hospital-icu-south.html), [demographic change](https://www.nytimes.com/interactive/2021/08/12/us/2020-census-race-ethnicity.html), [campaign finance](https://www.nytimes.com/interactive/2021/05/22/nyregion/nyc-mayor-donors-map.html), [solar eclipse traffic](https://www.nytimes.com/interactive/2024/04/10/us/eclipse-population-traffic.html), [Trump’s criminal cases](https://www.nytimes.com/interactive/2022/09/03/us/fbi-mar-a-lago-documents.html), and many other things. For a more up-to-date list of my work, you can view my [New York Times bio](https://www.nytimes.com/by/charlie-smart).
 
 [+.body]
-    I’m a designer and developer interested in making sense of complicated data, concepts, and stories. 
+    I’m a designer and creative technologist interested in making beautiful digital experiences that bring clarity to complex topics. 
     
-    I currently work as a graphics editor at the New York Times, where I make design and build interactive graphics, maps, games, and other internet gizmos. Before that, I worked at small designstudios specializing in information design.
+    I currently work as a graphics editor at the New York Times, where I design and build interactive applications, graphics, maps, games, and other internet gizmos. Before that, I worked at small design studios specializing in information design.
 
-    My work has received a [Peabody award](https://peabodyawards.com/award-profile/inside-the-deadly-maui-inferno-hour-by-hour/) and has been recognized by the Society for News Design. Coronavirus tracking tools I worked on were part of a package that won the 2021 Pulitzer Prize for public service journalism.
-
-    I like to rock climb, bird watch, and play the guitar.
+    My work has received a [Peabody award](https://peabodyawards.com/award-profile/inside-the-deadly-maui-inferno-hour-by-hour/) and has been recognized by the Society for News Design, the National Press Foundation, and the National Press Club. Coronavirus tracking tools I helped design were part of a package that won the 2021 Pulitzer Prize for public service journalism.
 
     text:[email](mailto:charlie.r.smart@gmail.com) / [linkedin](https://www.linkedin.com/in/charliesmart/)
 []
@@ -19,15 +17,22 @@ readMore:I have also worked on projects about [Covid hospitalizations](https://w
     org: The New York Times
     year: Every year 🙃
     banner: election_results.mp4
-    url:https://www.nytimes.com/interactive/2022/11/08/us/elections/results-needle-forecast.html
-    abstract:I play a lead role in designing and building pages for The New York Times’ live election results and live forecast (a.k.a. “the needle”). I have worked on every major election since the 2020 primaries. The app is written in Svelte and Typescript.
+    url:https://www.nytimes.com/interactive/2024/11/05/us/elections/results-president-forecast-needle.html
+    abstract:I played a key role in designing and building the New York Times’ signature live election results. For more than five years I have helped advance and refine the way the Times displays live election returns, with a particular focus on our live election night forecast (a.k.a. “The Needle”). These pages set the industry standard for election night coverage and are among the most viewed things the Times has ever published.
 
-    title: New York Times Coronavirus Tracking
+    title: Tracking Covid-19
     org: The New York Times
     year: 2020
     banner: covid_tracker.mp4
     url:https://www.nytimes.com/interactive/2021/us/covid-cases.html
     abstract:I spent most of 2020 working on a small team to design and build the Times’ Covid-19 tracking dashboards. We published trackers for every state and county, along with tools that let readers customize a dashboard to track Covid in places important to them. These pages were viewed more than a billion times and were part of a package that won the Pulitzer Prize for public service. 
+
+    title: Can You Gerrymander Your Party to Power?
+    org: The New York Times
+    year: 2022
+    banner:gerrymander.mp4
+    url:https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html
+    abstract:This game aims to teach readers about the mechanics of partisan gerrymandering. I designed and built the game UI with a focus on making sure it was fun and rewarding to play while also fulfilling its purpose as an educational tool. Readers still regularly play the game today, thee years after publication, and school teachers have told us they added it to their curricula.
 
     title: An Extremely Detailed Map of the 2020 Election
     org: The New York Times
@@ -36,20 +41,20 @@ readMore:I have also worked on projects about [Covid hospitalizations](https://w
     url: https://www.nytimes.com/interactive/2021/upshot/2020-election-map.html
     abstract: I designed and built a map of precint-level results of the 2020 presidential election. Readers can search for their address to see how their precinct voted and how the vote shifted from 2016.
 
+    title: YouTube Rewind
+    org: The Pudding / YouTube
+    year: 2019
+    banner: youtube.mp4
+    url:https://rewind.youtube/
+    abstract: I designed an animated dashboard in collaboration with YouTube showing popular videos in 2019 for the official YouTube rewind website.
+ 
     title: Inside the Deadly Maui Inferno
     org: The New York Times
     year:2023
     banner:maui.mp4
     url:https://www.nytimes.com/interactive/2023/11/01/us/hawaii-maui-fire-timeline.html
-    abstract:A reconstruction of the Maui fires, showing the chain of failures that left more than 100 people dead. We used Cesium to render Google 3D tiles and a whole bunch of custom code to render videos and data layers on top of the 3D map.
-
-    title: Can You Gerrymander Your Party to Power?
-    org: The New York Times
-    year: 2022
-    banner:gerrymander.mp4
-    url:https://www.nytimes.com/interactive/2022/01/27/us/politics/congressional-gerrymandering-redistricting-game-2022.html
-    abstract:This game aims to teach readers about the mechanics of partisan gerrymandering. I designed the game UI and built it using Svelte. After playing, readers could compare their scores and maps to other readers. 
-
+    abstract:This Peabody award-winning reconstruction of the Maui fires showed the chain of failures that left more than 100 people dead in Lahaina. I helped design and build the custom 3D map UI that allowed us to overlay videos onto the terrain to tell the stories of people caught in the inferno.
+   
     title: How Kyiv Has Withstood Russia’s Attacks
     org: The New York Times
     year: 2022
@@ -78,10 +83,5 @@ readMore:I have also worked on projects about [Covid hospitalizations](https://w
     url:https://njcoastalrisk.com/
     abstract:I used WegGL to created animated maps and charts showing the projected impact of sea level rise on New Jersey’s coast.
 
-    title: YouTube Rewind
-    org: The Pudding / YouTube
-    year: 2019
-    banner: youtube.mp4
-    url:https://rewind.youtube/
-    abstract: Animated charts showing popular YouTube videos in 2019 for YouTube rewind.
+    
 []

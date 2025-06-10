@@ -62,6 +62,10 @@
     color: black;
   }
 
+  :global(body) {
+    background-color: #f5f5ef;
+  }
+
   @media (max-width: 800px) {
     .page-wrap {
       display: block;
